@@ -40,14 +40,6 @@ This project is a blog application with an integrated dashboard. It utilizes Rea
 3. Use the advanced search functionality to find specific posts based on keywords or criteria.
 4. Explore the blog app and enjoy a seamless experience with responsive design and dark mode.
 
-## Contributors
-
-- [Your Name](link to your GitHub profile)
-
-## License
-
-This project is licensed under the [MIT License](link to license file).
-
 ## Acknowledgements
 
 - React documentation
